@@ -1,5 +1,9 @@
 Java classes for databinding via Jackson to Huluma.net endpoints
 
+Get it from jitpack:
+
+https://jitpack.io/#sjgibbs/huluma-jackson-model/2.0-ea
+
 ## Naming
 
 The name `net.huluma.model` is the more stable package name, derived from the commercial project.
