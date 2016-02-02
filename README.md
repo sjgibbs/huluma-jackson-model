@@ -1,4 +1,4 @@
-Java Classes for databinding via Jackson to Huluma.net endpoints
+Java classes for databinding via Jackson to Huluma.net endpoints
 
 ## Naming
 
